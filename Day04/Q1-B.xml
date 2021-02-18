@@ -1,0 +1,16 @@
+﻿<Employees>
+  <Employee>
+    <EmpNo>18316</EmpNo>
+    <DeptNo>d1</DeptNo>
+    <Salary>2400</Salary>
+    <EmpFname>John</EmpFname>
+    <EmpLname>Barrimore</EmpLname>
+  </Employee>
+  <Employee>
+    <EmpNo>25348</EmpNo>
+    <DeptNo>d3</DeptNo>
+    <Salary>2500</Salary>
+    <EmpFname>Mathew</EmpFname>
+    <EmpLname>Smith</EmpLname>
+  </Employee>
+</Employees>

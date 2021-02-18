@@ -1,0 +1,47 @@
+﻿<Instructors_inside_Department>
+  <Departmen Department_Name="SD">
+    <instructor>Ahmed</instructor>
+  </Departmen>
+  <Departmen Department_Name="SD">
+    <instructor>Hany</instructor>
+  </Departmen>
+  <Departmen Department_Name="SD">
+    <instructor>Reham</instructor>
+  </Departmen>
+  <Departmen Department_Name="SD">
+    <instructor>Yasmin</instructor>
+  </Departmen>
+  <Departmen Department_Name="SD">
+    <instructor>Amany</instructor>
+  </Departmen>
+  <Departmen Department_Name="SD">
+    <instructor>Eman</instructor>
+  </Departmen>
+  <Departmen Department_Name="SD">
+    <instructor>Saly</instructor>
+  </Departmen>
+  <Departmen Department_Name="Java">
+    <instructor>Amr</instructor>
+  </Departmen>
+  <Departmen Department_Name="Unix">
+    <instructor>Hussien</instructor>
+  </Departmen>
+  <Departmen Department_Name="Java">
+    <instructor>Khalid</instructor>
+  </Departmen>
+  <Departmen Department_Name="EB">
+    <instructor>Salah</instructor>
+  </Departmen>
+  <Departmen Department_Name="EB">
+    <instructor>Adel</instructor>
+  </Departmen>
+  <Departmen Department_Name="EL">
+    <instructor>Fakry</instructor>
+  </Departmen>
+  <Departmen Department_Name="EL">
+    <instructor>Amena</instructor>
+  </Departmen>
+  <Departmen Department_Name="MM">
+    <instructor>Ghada</instructor>
+  </Departmen>
+</Instructors_inside_Department>
